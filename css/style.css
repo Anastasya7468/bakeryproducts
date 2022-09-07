@@ -235,6 +235,7 @@ h1 {
         margin-bottom: 5px;
     }
     .section-about__block {
+        top: 20%;
         left: 20%;
         width: 250px;
         height: 270px;
@@ -259,6 +260,7 @@ h1 {
     }
     .icon-box {
         margin-right: 0;
+        margin-bottom: 10px;
     }
     .section-description__title{
         font-size: 36px;
